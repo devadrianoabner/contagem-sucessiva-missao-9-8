@@ -23,3 +23,6 @@ Restrição: Proibido o uso de printf ou bibliotecas de alto nível em entregas 
 [ ] ex07: cs_putnbr -> Decomposição matemática e conversão de int para char.
 
 [ ] ex08: cs_print_combn -> Lógica abstrata e recursividade.
+
+Trilha pública estilo “ilha deserta”: estudo raiz (Linux/WSL, C, Shell) com logs diários, testes de autonomia e um projeto final (o barco). Missão 9.8 é o início.
+
